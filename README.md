@@ -12,6 +12,8 @@ npm install
 npm start
 ```
 
+It starts usually at `http://localhost:8080/`
+
 ### Compiles and minifies for production
 
 ```
