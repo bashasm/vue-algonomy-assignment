@@ -1,4 +1,4 @@
-# vue-algonomy-assignment
+# Algonomy Assignment on VueJS
 
 ## Project setup
 
